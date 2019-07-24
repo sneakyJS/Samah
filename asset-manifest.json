@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Samah/static/css/main.ef314c0f.chunk.css",
+    "main.js": "/Samah/static/js/main.c49398a7.chunk.js",
+    "main.js.map": "/Samah/static/js/main.c49398a7.chunk.js.map",
+    "runtime~main.js": "/Samah/static/js/runtime~main.87c7485d.js",
+    "runtime~main.js.map": "/Samah/static/js/runtime~main.87c7485d.js.map",
+    "static/js/2.ae6e716f.chunk.js": "/Samah/static/js/2.ae6e716f.chunk.js",
+    "static/js/2.ae6e716f.chunk.js.map": "/Samah/static/js/2.ae6e716f.chunk.js.map",
+    "index.html": "/Samah/index.html",
+    "precache-manifest.c4dd6a0cf2d647c2d920654eedec48d6.js": "/Samah/precache-manifest.c4dd6a0cf2d647c2d920654eedec48d6.js",
+    "service-worker.js": "/Samah/service-worker.js",
+    "static/css/main.ef314c0f.chunk.css.map": "/Samah/static/css/main.ef314c0f.chunk.css.map"
+  }
+}
