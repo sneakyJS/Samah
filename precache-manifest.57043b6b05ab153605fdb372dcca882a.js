@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a46163360b4a10c6226d3707afa054bf",
+    "revision": "09ff247c9cbfdccb9bed1ba909720aac",
     "url": "/Samah/index.html"
   },
   {
-    "revision": "716546ca8b58c6331edd",
+    "revision": "4ffcb93aedada87968f4",
     "url": "/Samah/static/css/main.ef314c0f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Samah/static/js/2.ae6e716f.chunk.js"
   },
   {
-    "revision": "716546ca8b58c6331edd",
-    "url": "/Samah/static/js/main.c49398a7.chunk.js"
+    "revision": "4ffcb93aedada87968f4",
+    "url": "/Samah/static/js/main.ce449442.chunk.js"
   },
   {
     "revision": "8fe1d2f08be5983266da",
